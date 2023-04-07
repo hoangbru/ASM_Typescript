@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "san pham A",
+      "image": "https://picsum.photos/150/150 ",
+      "price": "150",
+      "description": "day la san pham A",
+      "categoryId": 3,
+      "id": 1
+    },
+    {
+      "name": "san pham B",
+      "image": "https://picsum.photos/150/150 ",
+      "price": "150",
+      "description": "day la san pham B",
+      "categoryId": 4,
+      "id": 2
+    },
+    {
+      "name": "san pham C",
+      "image": "https://picsum.photos/150/150 ",
+      "price": "200",
+      "description": "day la san pham C",
+      "categoryId": 3,
+      "id": 3
+    },
+    {
+      "name": "san pham D",
+      "image": "https://picsum.photos/150/150 ",
+      "price": "250",
+      "description": "day la san pham D",
+      "categoryId": 4,
+      "id": 4
+    },
+    {
+      "name": "san pham E",
+      "image": "https://picsum.photos/150/150 ",
+      "price": "300",
+      "description": "day la san pham E",
+      "categoryId": 4,
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "name": "Danh muc C",
+      "id": 3
+    },
+    {
+      "name": "Danh muc D",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "nguoidungB@gmail.com",
+      "password": "$2a$10$pxzQPMG32Ff3/oEHt6T9QOTadchqVt.HNuG6C/jC7F0PfLZxQ3QGS",
+      "username": "nguoi dung B",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$lQTjky0DOo8BUHasjnttauuizSIxGsfHeEIJk4c2WB7FR2zhSNHFe",
+      "username": "admin",
+      "id": 2
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$AZiGToyeW5MaUiCkMvMXQO2xDaWd1xztUboRKDx8TRgLn1xQV93vS",
+      "username": "admin1",
+      "id": 3
+    }
+  ]
+}
